@@ -1,7 +1,7 @@
 Package: thermography.ai.pipeline
 Type: Project
 Title: Systematic Review Pipeline for Infrared Thermography and AI in Human Pain
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person(
       "João Alberto de Souza", "Ribeiro",
