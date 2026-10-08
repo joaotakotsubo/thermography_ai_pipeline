@@ -1,0 +1,37 @@
+{
+  "title": "Infrared Thermography and AI for Human Pain: Systematic Review Pipeline",
+  "description": "Study-specific R workflow for a systematic review of computational models, infrared thermography, and human pain. Includes bibliographic import, deterministic exact deduplication and review queues for approximate matches, reviewer reconciliation, methodological appraisal, clinical-readiness and TEHAI reconciliation, descriptive synthesis, PRISMA and figure generation, and SHA-256 manifests. Contains code, input contracts, synthetic tests, and documentation only. Licensed bibliographic exports, nonpublic full texts, completed reviewer forms, manuscripts, and scientific result files are not distributed. Human disagreements require external documented joint decisions; the code does not generate scientific judgments. Twelve synthetic controls verify implementation properties but do not establish clinical validity or full numerical reproduction. Full reproduction requires the external records and approved human decision layers described in the documentation.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "version": "1.0.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/joaotakotsubo/thermography_ai_pipeline",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ribeiro, João Alberto de Souza",
+      "orcid": "0000-0002-9158-8908",
+      "affiliation": "Department of Science, Termodiagnose Institute Brazil - Pain, Palliative Care and Medical Thermology; Department of Research and Development, Division of Data Science and Analytics, Takotsubo Life Sciences"
+    },
+    {
+      "name": "Giacomini, Luciana Aparecida",
+      "orcid": "0000-0002-7647-9092",
+      "affiliation": "Department of Biology, CEUNSP - Universidade Cruzeiro do Sul"
+    }
+  ],
+  "keywords": [
+    "systematic review",
+    "infrared thermography",
+    "artificial intelligence",
+    "machine learning",
+    "pain",
+    "reproducible research",
+    "R"
+  ]
+}

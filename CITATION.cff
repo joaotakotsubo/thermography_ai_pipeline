@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the specific software version and commit."
+title: "Infrared Thermography and AI for Human Pain: Systematic Review Pipeline"
+type: software
+version: 1.0.0
+date-released: 2026-10-07
+license: MIT
+repository-code: "https://github.com/joaotakotsubo/thermography_ai_pipeline"
+url: "https://github.com/joaotakotsubo/thermography_ai_pipeline"
+abstract: >-
+  Study-specific R workflow for a systematic review of computational models,
+  infrared thermography, and human pain. Includes deterministic deduplication,
+  reviewer reconciliation, descriptive synthesis, figure generation, input
+  contracts, and synthetic tests. Protected source data and completed human
+  assessments are not distributed; full numerical reproduction requires them.
+authors:
+  - family-names: "Ribeiro"
+    given-names: "João Alberto de Souza"
+    orcid: "https://orcid.org/0000-0002-9158-8908"
+    affiliation: "Department of Science, Termodiagnose Institute Brazil - Pain, Palliative Care and Medical Thermology; Department of Research and Development, Division of Data Science and Analytics, Takotsubo Life Sciences"
+  - family-names: "Giacomini"
+    given-names: "Luciana Aparecida"
+    orcid: "https://orcid.org/0000-0002-7647-9092"
+    affiliation: "Department of Biology, CEUNSP - Universidade Cruzeiro do Sul"
+keywords:
+  - systematic review
+  - infrared thermography
+  - artificial intelligence
+  - machine learning
+  - pain
+  - reproducible research
+  - R
